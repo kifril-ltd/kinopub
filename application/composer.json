@@ -1,7 +1,0 @@
-{
-    "require": {
-        "symfony/validator": "^5.2",
-        "symfony/http-client": "^5.2",
-        "symfony/mime": "^5.2"
-    }
-}
