@@ -1,4 +1,0 @@
-2021/04/04 17:01:50 [error] 27#27: *278 client intended to send too large body: 114227782 bytes, client: 172.18.0.1, server: _, request: "POST /movie/add HTTP/1.1", host: "localhost:8084", referrer: "http://localhost:8084/movie/add"
-2021/04/04 17:02:47 [error] 27#27: *279 client intended to send too large body: 4112628 bytes, client: 172.18.0.1, server: _, request: "POST /movie/add HTTP/1.1", host: "localhost:8084", referrer: "http://localhost:8084/movie/add"
-2021/04/04 17:04:05 [error] 27#27: *282 client intended to send too large body: 4112623 bytes, client: 172.18.0.1, server: _, request: "POST /movie/add HTTP/1.1", host: "localhost:8084", referrer: "http://localhost:8084/movie/add"
-2021/04/04 17:05:32 [error] 27#27: *1 client intended to send too large body: 4112623 bytes, client: 172.19.0.1, server: _, request: "POST /movie/add HTTP/1.1", host: "localhost:8084", referrer: "http://localhost:8084/movie/add"
